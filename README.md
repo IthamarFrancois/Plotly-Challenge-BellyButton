@@ -1,3 +1,6 @@
+Ithamar Francois IO: https://ithamarfrancois.github.io/Plotly-Challenge-BellyButton/
+
+
 # Plot.ly Homework - Belly Button Biodiversity
 
 ![Bacteria by filterforge.com](Images/bacteria.jpg)
